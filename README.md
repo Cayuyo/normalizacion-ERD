@@ -10,4 +10,4 @@ Recrea el siguiente modelo ERD para que pase las 3 formas de normalización.
 
 Este ERD infringe múltiples formas de normalización. El propósito de este ERD es hacer un seguimiento de la información de los estudiantes y TODOS los intereses que un estudiante pueda tener.
 
-<img src="https://assets.codingdojo.com/boomyeah/company_209/chapter_3052/handouts/chapter3052_7919_MVC-advanced-assignment.png" alt="normalizacion" width="500" height="600">
+<img src="https://assets.codingdojo.com/boomyeah/company_209/chapter_3052/handouts/chapter3052_7919_MVC-advanced-assignment.png" alt="normalizacion" width="200" height="300">
